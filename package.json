@@ -1,0 +1,14 @@
+{
+  "name": "security-demo-repo",
+  "version": "1.0.0",
+  "description": "Demo repository for GitHub CodeQL and Dependabot alerts",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "4.16.0",
+    "lodash": "4.17.15",
+    "minimist": "0.0.8"
+  }
+}
